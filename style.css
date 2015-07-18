@@ -1,0 +1,38 @@
+body {
+	background-image: url(images/dark_tile.jpg);
+}
+
+#header {
+	background-color: #FFFFFF;
+	border-style: solid;
+	border-width: 2px;
+	border-radius: 15px;
+	margin: 50px 150px 50px 150px;
+	text-align: center;
+}
+
+#content {
+	background-color: #FFFFFF;
+	border-style: solid;
+	border-width: 2px;
+	border-radius: 15px;
+	margin: 50px 150px 50px 150px;
+}
+
+#footer {
+	background-color: #FFFFFF;
+	border-style: solid;
+	border-width: 2px;
+	border-radius: 15px;
+	margin: 50px 150px 50px 150px;
+	text-align: center;
+	font-size: 14px;
+}
+
+.codes {
+	font-family: "Courier New", Courier, monospace;
+}
+
+.codecontainer {
+	padding-left: 10px;
+}

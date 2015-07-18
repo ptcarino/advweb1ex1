@@ -1,5 +1,6 @@
 <html>
 <head>
+	<meta charset="UTF-8">
     <title>
         Web Technologies 1 - Lab Ex1
     </title>
